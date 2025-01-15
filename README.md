@@ -1,4 +1,4 @@
-# Individual-Income-Analysis
+# Individual-Income-Analysis ML
 
 Neural networks (Yifei)
 A neural network-based binary classification model designed to predict whether an individual's income exceeds $50K annually. The analysis utilizes the Adult dataset, applying data preprocessing, handling class imbalance, and optimizing the model using cross-validation. The final performance is evaluated using a confusion matrix and classification metrics. 
